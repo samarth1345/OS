@@ -1,0 +1,1 @@
+{"name":"Local: priority","url":"c:\\Users\\hp\\Desktop\\OS\\Assign4\\priority.cpp","tests":[{"id":1639393879640,"input":"3\n12 3\n14 2\n25 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\OS\\Assign4\\priority.cpp","group":"local","local":true}

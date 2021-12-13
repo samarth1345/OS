@@ -1,0 +1,1 @@
+{"name":"Local: FCFS","url":"c:\\Users\\hp\\Desktop\\OS\\Assign4\\FCFS.cpp","tests":[{"id":1639389925038,"input":"3 \n0 24\n5 3\n31 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\OS\\Assign4\\FCFS.cpp","group":"local","local":true}
